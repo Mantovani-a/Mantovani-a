@@ -13,9 +13,6 @@ Desenvolvedor focado em construir soluções modernas, eficientes e elegantes, u
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mantovani-a&theme=transparent&hide_border=true" alt="Streak Stats"/>
-</div>
 
 <br/>
 
