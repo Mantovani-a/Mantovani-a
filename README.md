@@ -22,14 +22,6 @@ Desenvolvedor focado em construir soluções modernas, eficientes e elegantes, u
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mantovani-a&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
-</div>
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
