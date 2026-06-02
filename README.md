@@ -71,8 +71,6 @@ Desenvolvedor focado em construir soluções modernas, eficientes e elegantes, u
 
 <div align="center">
   
-### ✨ *"Código limpo é aquele que simplesmente se lê como uma boa frase"* ✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mantovani-a&color=FF6B9D&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
+### ✨ *"Sempre em construção..."* ✨
 
 </div>
