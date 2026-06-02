@@ -20,18 +20,10 @@ Desenvolvedor focado em construir soluções modernas, eficientes e elegantes, u
 ### 📊 Estatísticas do GitHub (GitStats)
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mantovani-a&theme=tokyonight" alt="GitHub Profile Details" />
-  <br/>
-  <table border="0">
-    <tr align="center">
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mantovani-a&theme=tokyonight" alt="Repos per Language" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mantovani-a&theme=tokyonight" alt="Most Commit Language" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=Mantovani-a&show_icons=true&theme=transparent&hide_border=true&include_all_comsrc="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=transparent&hide_borde=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mantovani-a&layout=compact&theme=transparent&hide_border=true"/>
 </div>
 
 ---
