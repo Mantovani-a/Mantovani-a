@@ -71,6 +71,6 @@ Desenvolvedor focado em construir soluções modernas, eficientes e elegantes, u
 
 <div align="center">
   
-### ✨ *"Sempre em construção..."* ✨
+###  *"Sempre em construção..."* 
 
 </div>
