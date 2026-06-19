@@ -1,6 +1,6 @@
 # Olá, eu sou o Nicolas! 👋
 
-Desenvolvedor focado em construir soluções modernas, eficientes e elegantes, utilizando as melhores práticas de desenvolvimento de software.
+Técnico em T.I, Estudante de Engenharia de Sotftware (FIAP), desenvolvedor buscando aprender e trabalhar.
 
 ---
 
@@ -43,8 +43,3 @@ Desenvolvedor focado em construir soluções modernas, eficientes e elegantes, u
 
 ---
 
-<div align="center">
-  
-###  *"Sempre em construção..."* 
-
-</div>
