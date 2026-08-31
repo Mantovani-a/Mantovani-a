@@ -36,8 +36,7 @@ Técnico em T.I, Estudante de Engenharia de Sotftware (FIAP), desenvolvedor busc
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mantovani-a)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nícolas-mantovani-de-araujo-980a93259)
 </div>
 
 ---
