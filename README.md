@@ -40,7 +40,9 @@ Software engineering student, Looking for opportunities to work/internships
 </div>
 
 # Learning - 
-. Linux environment automation: custom Window Managers (like Hyprland), and reproducible workflows
-. Software Architecture: Clean Architecture e Design Patterns (like CQRS or Repository Pattern) 
+
+Linux environment automation, custom Window Managers (like Hyprland), and reproducible workflows
+System Design: Object-Oriented Programming (OOP) and UML modeling for complex systems
+
 ---
 
