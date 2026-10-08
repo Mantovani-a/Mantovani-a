@@ -41,7 +41,7 @@ Software engineering student, Looking for opportunities to work/internships
 
 # Learning - 
 
-Linux environment automation, custom Window Managers (like Hyprland), and reproducible workflows
+Linux environment automation, custom Window Managers (like Hyprland), and reproducible workflows <br>
 System Design: Object-Oriented Programming (OOP) and UML modeling for complex systems
 
 ---
